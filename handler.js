@@ -808,13 +808,13 @@ export async function deleteUpdate(message) {
         if (chat.delete)
             return 
             await this.reply(msg.chat, `
-≡  💝 Queen Hentai 💝 WA BOT deleted a message.
-┌─⊷ 🇱🇰 𝘼𝙉𝙏𝙄 𝘿𝙀𝙇𝙀𝙏𝙀 🇱🇰
+≡  💝 It is 𝖀𝖓𝖐𝖓𝖔𝖜𝖓  💝 He deleted a message.
+┌─⊷  𝘼𝙉𝙏𝙄 𝘿𝙀𝙇𝙀𝙏𝙀 🚫
 🩸 *Number :* @${participant.split`@`[0]} 🩸
 └─────────────
-🩸TO DEACTIVE , PRESS 🩸
-🩸 */off antidelete* 🩸
-🩸 *.enable delete* 🩸
+🩸TO DEACTIVE ,  🩸
+🩸 *𝘾𝙤𝙣𝙩𝙖𝙘𝙩 👇🏻* 🩸
+🩸 *𝖀𝖓𝖐𝖓𝖔𝖜𝖓* 🩸
 `.trim(), msg, {
             mentions: [participant]
         })
@@ -826,16 +826,16 @@ export async function deleteUpdate(message) {
 
 global.dfail = (type, m, conn) => {
     let msg = {
-        rowner: '*ᴏɴʟʏ 💝 Queen Hentai 💝 ᴅᴇᴠᴇʟᴏᴘᴇʀ* • 🇱🇰 This command can only be used by the *Creator of 💝 Dinuwa Official²⁰²³ 💝*',
-        owner: '*ᴏɴʟʏ 💝 Queen Hentai 💝 ᴏᴡɴᴇʀ* • 🇱🇰 This command can only be used by the *Bot Owner 💝 Dinuwa Official²⁰²³ 💝',
-        mods: '*ᴏɴʟʏ 💝 Queen Hentai 💝 ᴍᴏᴅᴇʀᴀᴛᴏʀ* •🇱🇰 This function is only for *For 💝 Queen Hentai 💝 Bot moderators*',
-        premium: '*ᴏɴʟʏ 💝 Queen Hentai 💝 ᴘʀᴇᴍɪᴜᴍ User* • 🇱🇰 This command is for *💝 Queen Hentai 💝 Premium members only',
-        group: '*💝 Queen Hentai 💝 ɢʀᴏᴜᴘ ᴄʜᴀᴛ* • 🇱🇰 This command can only be used in 💝 Queen Hentai 💝 groups',
-        private: '*💝 Queen Hentai 💝 ᴘʀɪᴠᴀᴛᴇ ᴄʜᴀᴛ* • 🇱🇰 This command can only be used in the *private chat of the 💝 Queen Hentai 💝 Bot*',
-        admin: '*ᴏɴʟʏ 💝 Queen Hentai 💝 ᴀᴅᴍɪɴ* • 🇱🇰 This command is only for *💝 Queen Hentai 💝 Group Admins*',
-        botAdmin: '*ᴏɴʟʏ 💝 Queen Hentai 💝 ʙᴏᴛ ᴀᴅᴍɪɴ* • 🇱🇰 To use this command I must be *💝 Queen Hentai 💝 Admin!*',
-        unreg: '*ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ʀᴇɢɪsᴛᴇʀᴇᴅ with 💝 Queen Hentai 💝* • 🇱🇰 Sign in to 💝 Queen Hentai 💝,use this feature Type කරපන්:\n\n*/reg name.age*\n\n🇱🇰 Example : *.reg DINUWA.17*', 
-        restrict: '*ʀᴇsᴛʀɪᴄᴛby 💝 Queen Hentai 💝 WA BOT* • This feature is *disabled*by 💝 Queen Hentai 💝 WA BOT',
+        rowner: '*ᴏɴʟʏ 💝 𝖀𝖓𝖐𝖓𝖔𝖜𝖓 💝 ᴅᴇᴠᴇʟᴏᴘᴇʀ* • This command can only be used by the *Creator of 💝 𝖀𝖓𝖐𝖓𝖔𝖜𝖓 💝*',
+        owner: '*ᴏɴʟʏ 💝 𝖀𝖓𝖐𝖓𝖔𝖜𝖓 💝 ᴏᴡɴᴇʀ* • This command can only be used by the *Bot Owner 💝 𝖀𝖓𝖐𝖓𝖔𝖜𝖓 💝',
+        mods: '*ᴏɴʟʏ 💝 𝖀𝖓𝖐𝖓𝖔𝖜𝖓 💝 ᴍᴏᴅᴇʀᴀᴛᴏʀ* • This function is only for *For 💝 𝖀𝖓𝖐𝖓𝖔𝖜𝖓 💝 Bot moderators*',
+        premium: '*ᴏɴʟʏ 💝 𝖀𝖓𝖐𝖓𝖔𝖜𝖓 💝 ᴘʀᴇᴍɪᴜᴍ User* • This command is for *💝 𝖀𝖓𝖐𝖓𝖔𝖜𝖓 💝 Premium members only',
+        group: '*💝 𝖀𝖓𝖐𝖓𝖔𝖜𝖓 💝 ɢʀᴏᴜᴘ ᴄʜᴀᴛ* • This command can only be used in 💝 𝖀𝖓𝖐𝖓𝖔𝖜𝖓 💝 groups',
+        private: '*💝 𝖀𝖓𝖐𝖓𝖔𝖜𝖓 💝 ᴘʀɪᴠᴀᴛᴇ ᴄʜᴀᴛ* • This command can only be used in the *private chat of the 💝 𝖀𝖓𝖐𝖓𝖔𝖜𝖓 💝 Bot*',
+        admin: '*ᴏɴʟʏ 💝 𝖀𝖓𝖐𝖓𝖔𝖜𝖓 💝 ᴀᴅᴍɪɴ* • This command is only for *💝 𝖀𝖓𝖐𝖓𝖔𝖜𝖓 💝 Group Admins*',
+        botAdmin: '*ᴏɴʟʏ 💝 𝖀𝖓𝖐𝖓𝖔𝖜𝖓 💝 ʙᴏᴛ ᴀᴅᴍɪɴ* • To use this command I must be *💝 𝖀𝖓𝖐𝖓𝖔𝖜𝖓 💝 Admin!*',
+        unreg: '*ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ʀᴇɢɪsᴛᴇʀᴇᴅ with 💝 𝖀𝖓𝖐𝖓𝖔𝖜𝖓 💝* • Sign in to 💝 𝖀𝖓𝖐𝖓𝖔𝖜𝖓 💝,use this feature Type කරපන්:\n\n*/reg name.age*\n\n Example : *.reg Unknown.00*', 
+        restrict: '*ʀᴇsᴛʀɪᴄᴛby 💝 𝖀𝖓𝖐𝖓𝖔𝖜𝖓 💝 WA BOT* • This feature is *disabled*by 💝 𝖀𝖓𝖐𝖓𝖔𝖜𝖓 💝 WA BOT',
     }[type]
     if (msg) return m.reply(msg)
 }
