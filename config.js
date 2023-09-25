@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94740804536', 'Dinuwa Official²⁰²³', true],
-  ['94740804536', 'Dinuwa Official²⁰²³', true], 
+  ['447441462483', '𝖀𝖓𝖐𝖓𝖔𝖜𝖓', true],
+  ['447441462483', '𝖀𝖓𝖐𝖓𝖔𝖜𝖓', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['94740804536','94740804536'] 
-global.prems = ['94740804536', '94740804536', '94740804536']
+global.mods = ['447441462483','447441462483'] 
+global.prems = ['447441462483', '447441462483', '447441462483']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -47,20 +47,20 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '💝 Queen Hentai 💝'
+global.botname = '💝 Bot by 𝖀𝖓𝖐𝖓𝖔𝖜𝖓 💝'
 global.premium = 'true'
-global.packname = '💝 Queen Hentai 💝 Created By 💝 Dinuwa Official²⁰²³ 💝' 
-global.author = '💝 Dinuwa Official²⁰²³ 💝' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/Dinuwa Official²⁰²³\n' 
-global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
+global.packname = 'Created By 💝 𝖀𝖓𝖐𝖓𝖔𝖜𝖓 💝' 
+global.author = '💝 𝖀𝖓𝖐𝖓𝖔𝖜𝖓 💝' 
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/a2a2m6i4r7\n' 
+global.dygp = 'https://chat.whatsapp.com/GZNXZdB3nBM6H9UkMutjaK'
 global.fgsc = 'https://github.com/dinuwah/QUEEN-HENTAI' 
-global.fgyt = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fgpyp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
+global.fgyt = 'https://chat.whatsapp.com/GZNXZdB3nBM6H9UkMutjaK'
+global.fgpyp = 'https://chat.whatsapp.com/GZNXZdB3nBM6H9UkMutjaK'
 global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg' 
 
 
-global.wait = '*💝 _Waiting Bro Uploading by 💝 Queen Hentai 💝..._*'
-global.rwait = '🇱🇰'
+global.wait = '*💝 _Wait Bro Uploading by 💝 𝖀𝖓𝖐𝖓𝖔𝖜𝖓 💝..._*'
+global.rwait = '🇵🇰'
 global.dmoji = '🤣'
 global.done = '👍'
 global.error = '👎' 
